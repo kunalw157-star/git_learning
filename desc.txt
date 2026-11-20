@@ -1,0 +1,51 @@
+GIT AND GITHUB
+1. What is Git?
+
+Definition:
+
+Git is a free and open-source version control system used to track changes in files and source code during software development.
+
+Description:
+
+Git helps developers manage and maintain different versions of their projects. It allows multiple developers to work on the same project, track changes, go back to previous versions, and collaborate easily.
+
+Git stores the history of changes made to a project. It also helps developers identify who made changes and when those changes were made.
+
+Features of Git:
+
+Tracks changes in source code.
+Maintains the history of a project.
+Allows developers to create branches.
+Helps restore previous versions of files.
+Supports teamwork and collaboration.
+Works offline on a local computer.
+2. What is GitHub?
+
+Definition:
+
+GitHub is an online platform used to store, manage, share, and collaborate on software development projects using Git.
+
+Description:
+
+GitHub provides cloud-based storage for Git repositories. It allows developers to upload their projects, share code with others, and work together from different locations.
+
+GitHub also provides features such as pull requests, issues, project management, and code reviews, which make software development easier and more organized.
+
+Features of GitHub:
+
+Stores projects online.
+Allows developers to share their code.
+Supports team collaboration.
+Provides pull requests and code reviews.
+Helps manage project tasks and issues.
+Keeps project repositories accessible from anywhere.
+3. Difference Between Git and GitHub
+Git	GitHub
+Git is a version control system.	GitHub is an online hosting platform.
+It is installed on a computer.	It is accessed through the internet or an application.
+It tracks changes in files.	It stores and shares Git repositories online.
+It works offline.	Online features require an internet connection.
+It is a tool developed for version control.	It is a platform built around Git.
+4. Conclusion
+
+Git and GitHub are important tools in software development. Git is used to track and manage changes in code, while GitHub is used to store projects online and collaborate with other developers. Both tools help developers manage projects efficiently and work together easily.
